@@ -3,24 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>deprecated</string>
+	<string>raco</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
-		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DEPRECATED_MSG_ATTRIBUTE("&lt;#message#&gt;")</string>
+	<string>[RACObserve(&lt;#target#&gt;, &lt;#keypath#&gt;) subscribeNext:^(id  _Nullable x) {
+        &lt;# #&gt;
+    }];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B3E536D7-2C10-4F21-9FB8-2173A3D5DD8D</string>
+	<string>7D461ACA-C79F-4B91-8307-C144BFA68308</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>[RACObserve(&lt;#target#&gt;, &lt;#keypath#&gt;) subscribeNext:^(id  _Nullable x) {
+        &lt;# #&gt;
+    }];</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>deprecated message</string>
+	<string>[RACObserve(&lt;#target#&gt;, &lt;#keypath#&gt;) subscribeNext:^(id  _Nullable x) {
+        &lt;# #&gt;
+    }];</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

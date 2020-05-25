@@ -3,27 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>deprecated</string>
+	<string>cmdd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
-		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DEPRECATED_MSG_ATTRIBUTE("&lt;#message#&gt;")</string>
+	<string>    [self.&lt;#your_cmd#&gt;.executionSignals.switchToLatest subscribeNext:^(id  _Nullable x) {
+        &lt;#code#&gt;
+    }];
+&lt;# #&gt;
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B3E536D7-2C10-4F21-9FB8-2173A3D5DD8D</string>
+	<string>DF348CE0-ED0F-4E32-BD65-2A88DBDC83C5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>    [self.&lt;#your_cmd#&gt;.executionSignals.switchToLatest subscribeNext:^(id  _Nullable x) {
+        &lt;#code#&gt;
+    }];&lt;# #&gt;
+</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>deprecated message</string>
+	<string>    [self.&lt;#your_cmd#&gt;.executionSignals.switchToLatest subscribeNext:^(id  _Nullable x) {
+        &lt;#code#&gt;
+    }];&lt;# #&gt;
+</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
