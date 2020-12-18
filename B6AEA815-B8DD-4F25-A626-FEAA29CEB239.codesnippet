@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tt</string>
+	<string>ff</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO: &lt;#TODO...#&gt;</string>
+	<string>// FIXME:钟晓明 &lt;#fix me...#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2E2BDD5B-536D-4BED-87C3-33DC84ACECC2</string>
+	<string>B6AEA815-B8DD-4F25-A626-FEAA29CEB239</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>todo</string>
+	<string>// FIXME:钟晓明 &lt;#fix me...#&gt;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>todo</string>
+	<string>// FIXME:钟晓明 &lt;#fix me...#&gt;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

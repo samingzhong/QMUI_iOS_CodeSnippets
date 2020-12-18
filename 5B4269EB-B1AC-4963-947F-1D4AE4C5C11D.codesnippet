@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ff</string>
+	<string>lmm</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// FIXME: &lt;#fix me...#&gt;</string>
+	<string>LOG_MAIN(@"%@   ", NSStringFromSelector(_cmd)&lt;#data#&gt;);&lt;# #&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DD17DB5E-0F06-417E-B47E-8F3A2F78F153</string>
+	<string>5B4269EB-B1AC-4963-947F-1D4AE4C5C11D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>fix me</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>fixme</string>
+	<string>LOG_MAIN(@"%@ &lt;#log info#&gt;", NSStringFromSelector(_cmd)&lt;#data#&gt;);&lt;# #&gt;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
